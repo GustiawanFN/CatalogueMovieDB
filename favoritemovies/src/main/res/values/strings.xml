@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoriteMovies</string>
+    <string name="movie_title">judul</string>
+    <string name="sinopsys">synopsis</string>
+    <string name="release_date">tanggal</string>
+    <string name="date_release">tanggal</string>
+    <string name="detail_movie">detail</string>
+</resources>
